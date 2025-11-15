@@ -1,4 +1,4 @@
-# Omamerie Ariegwe
+# Mr Internet
 
 **Robotics Engineer | Embedded Systems Developer | IoT Solutions Architect**
 
